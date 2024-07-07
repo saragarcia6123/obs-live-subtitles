@@ -1,0 +1,5 @@
+pyaudio
+pygame
+pydub
+obs-websocket-py
+requests

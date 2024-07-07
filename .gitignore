@@ -1,0 +1,5 @@
+recordings/
+transcriptions/
+venv/
+cache/
+__pycache__/
